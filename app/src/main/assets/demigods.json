@@ -1,0 +1,175 @@
+{
+  "demigods": [
+    {
+      "name": "Percy Jackson",
+      "parent": "Sally Jackson and Poseidon",
+      "camp": "Camp Jupiter",
+      "species": "g",
+      "alive": true,
+      "age": 18,
+      "so": "Annabeth Chase",
+      "opinion": "fav",
+      "image": "percyjackson_195x292"
+    },{
+      "name": "Annabeth Chase",
+      "parent": "Frederick Chase and Athena",
+      "camp": "Camp Jupiter",
+      "species": "g",
+      "alive": true,
+      "age": 18,
+      "so": "Percy Jackson",
+      "opinion": "fav",
+      "image": "annabethchase_195x292"
+    },{
+      "name": "Nico di Angelo",
+      "parent": "Maria di Angelo and Hades",
+      "camp": "Camp Half-Blood",
+      "species": "g",
+      "alive": true,
+      "age": 14,
+      "so": "Will Solace",
+      "opinion": "fav",
+      "image": "nico_di_angelo"
+    },{
+      "name": "Will Solace",
+      "parent": "Naomi Solace and Apollo",
+      "camp": "Camp Half-Blood",
+      "species": "g",
+      "alive": true,
+      "age": 16,
+      "so": "Nico di Angelo",
+      "opinion": "pretty good",
+      "image": "will_solace_195x292"
+    },{
+      "name": "Leo Valdez",
+      "parent": "Esperanza Valdez and Hephaestus",
+      "camp": "Camp Half-Blood",
+      "species": "g",
+      "alive": true,
+      "age": 16,
+      "so": "Calypso",
+      "opinion": "boring",
+      "image": "leovaldez_195x292"
+    },{
+      "name": "Piper McLean",
+      "parent": "Tristan McLean and Aphrodite",
+      "camp": "Camp Half-Blood",
+      "species": "g",
+      "alive": true,
+      "age": 16,
+      "so": "Shel",
+      "opinion": "boring",
+      "image": "pipermclean_195x292"
+    },{
+      "name": "Reyna Avila Ramírez Arellano",
+      "parent": "Julian Ramírez-Arellano and Bellona",
+      "camp": "Hunters of Artemis",
+      "species": "h",
+      "alive": true,
+      "age": 16,
+      "so": "None",
+      "opinion": "pretty good",
+      "image": "reynaavilaramirezarellano"
+    },{
+      "name": "Hazel Levesque",
+      "parent": "Marie Levesque and Pluto",
+      "camp": "Camp Jupiter",
+      "species": "r",
+      "alive": true,
+      "age": 15,
+      "so": "Frank Zhang",
+      "opinion": "great",
+      "image": "hazellevesque_195x292"
+    },{
+      "name": "Frank Zhang",
+      "parent": "Emily Zhang and Mars",
+      "camp": "Camp Jupiter",
+      "species": "r",
+      "alive": true,
+      "age": 17,
+      "so": "Hazel Levesque",
+      "opinion": "great",
+      "image": "frankzhang_195x292"
+    },{
+      "name": "Jason Grace",
+      "parent": "Beryl Grace and Jupiter",
+      "camp": "Camp Half-Blood",
+      "species": "r",
+      "alive": false,
+      "age": 16,
+      "so": "None",
+      "opinion": "boring",
+      "image": "jason_redraw2_195x292"
+    },{
+      "name": "Rachel Elizabeth Dare",
+      "parent": "N/A",
+      "camp": "Camp Half-Blood",
+      "species": "m",
+      "alive": true,
+      "age": 17,
+      "so": "None",
+      "opinion": "pretty good",
+      "image": "racheldare_195x292"
+    },{
+      "name": "Sally Jackson",
+      "parent": "N/A",
+      "camp": "NYC",
+      "species": "m",
+      "alive": true,
+      "age": 46,
+      "so": "Paul Blofis",
+      "opinion": "darling",
+      "image": "sally_jackson__1_"
+    },{
+      "name": "Chiron",
+      "parent": "Kronos",
+      "camp": "Camp Half-Blood",
+      "species": "i",
+      "alive": true,
+      "age": 0,
+      "so": "None",
+      "opinion": "okay",
+      "image": "chiron2_195x292"
+    },{
+      "name": "Calypso",
+      "parent": "Thetys and Atlas",
+      "camp": "Waystation",
+      "species": "m",
+      "alive": true,
+      "age": 4612,
+      "so": "Leo Valdez",
+      "opinion": "pretty good",
+      "image": "calypso_195x292"
+    },{
+      "name": "Zoë Nightshade",
+      "parent": "Pleione and Atlas",
+      "camp": "Hunters of Artemis",
+      "species": "h",
+      "alive": false,
+      "age": 2000,
+      "so": "None",
+      "opinion": "great",
+      "image": "zoelessstars_195x292"
+    },{
+      "name": "Thalia Grace",
+      "parent": "Beryl Grace and Zeus",
+      "camp": "Hunters of Artemis",
+      "species": "h",
+      "alive": true,
+      "age": 15,
+      "so": "None",
+      "opinion": "great",
+      "image": "thaliagrace_195x292"
+    },{
+      "name": "Grover Underwood",
+      "parent": "N/A",
+      "camp": "Camp Half-Blood",
+      "species": "s",
+      "alive": true,
+      "age": 16,
+      "so": "Juniper",
+      "opinion": "great",
+      "image": "groverunderwood_195x292"
+    },
+  ]
+}
